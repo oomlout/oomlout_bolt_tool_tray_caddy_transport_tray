@@ -2,5 +2,8 @@ project_id: oomlout_bolt_tool_tray_caddy_transport_tray
 project_name: Oomlout Bolt Tool Tray Caddy Transport Tray
 project_repo: https://github.com/oomlout/oomlout_bolt_tool_tray_caddy_transport_tray
 production_format:
-  oolc_1_oomlout_bolt_tool_tray_caddy_transport_tray_a4_tray_04_2d5_6_row_2_column_12_unit:
+  oolc_1_oomlout_bolt_tool_tray_caddy_transport_tray_a4_tray_4_2d5_6_row_2_column_12_unit:
     file_location: source_files/oolc_1.cdr
+  oolc_2_oomlout_bolt_tool_tray_caddy_transport_tray_a4_tray_4_2_6_row_2_column_12_unit:
+    file_location: source_files/oolc_2.cdr
+
